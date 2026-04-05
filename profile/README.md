@@ -174,8 +174,3 @@ this project is intended to be a foundation you can build on.
 
 ---
 
-## Name
-
-The project is presented publicly as **B-ROVERETTE**.
-
-For GitHub organization and repo naming, the simpler lowercase form `broverette` is typically used for handles and URLs.
