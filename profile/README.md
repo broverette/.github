@@ -1,3 +1,6 @@
+![banner](https://github.com/user-attachments/assets/ea1c59a4-79cb-4fcb-995a-d61b59dc4e67)
+
+
 # B-ROVERETTE
 
 **B-ROVERETTE** is a modular ROS 2 Ackermann robotics platform for education, research, and autonomous systems development.
