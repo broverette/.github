@@ -6,6 +6,10 @@ It is designed around a simple idea: build a solid core vehicle platform first, 
 
 ---
 
+
+https://github.com/user-attachments/assets/8b9d1c06-a58a-40a6-a1f9-abc77dda6b2d
+
+
 ## What It Is
 
 B-ROVERETTE is not just a single robot repo.
