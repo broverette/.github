@@ -4,11 +4,9 @@
 
 It is designed around a simple idea: build a solid core vehicle platform first, then layer higher-level autonomy, mapping, exploration, and learning systems on top of it without rewriting the foundation each time.
 
----
-
-
 https://github.com/user-attachments/assets/8b9d1c06-a58a-40a6-a1f9-abc77dda6b2d
 
+---
 
 ## What It Is
 
@@ -82,12 +80,12 @@ This structure makes it easy to build on the same robot foundation while keeping
 
 ## Repositories
 
-### `core`
+### [`broverette-core`](https://github.com/broverette/broverette-core)
 The base B-ROVERETTE robot platform.
 
 Includes the foundational ROS 2 interfaces and hardware-facing functionality for the vehicle, including robot description, sensing, odometry, and motion-related topics.
 
-### `nav2`
+### [`broverette-nav2`](https://github.com/broverette/broverette-nav2)
 The autonomy and navigation stack.
 
 Builds on the core platform to support:
@@ -98,12 +96,12 @@ Builds on the core platform to support:
 - AMCL localization
 - Nav2 path planning and navigation
 
-### `explorer`
+### [`broverette-explorer`](https://github.com/broverette/broverette-explorer)
 The autonomous exploration stack.
 
 Combines the platform with exploration tooling to automatically build maps and explore unknown spaces with minimal configuration.
 
-### `oscar`
+### [`broverette-oscar`](https://github.com/broverette/broverette-oscar)
 The neural driving and learning extension.
 
 Extends B-ROVERETTE with DNN-based workflows, data collection, multi-input model support, and controller-driven training/inference pipelines.
