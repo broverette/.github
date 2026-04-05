@@ -4,7 +4,9 @@
 
 It is designed around a simple idea: build a solid core vehicle platform first, then layer higher-level autonomy, mapping, exploration, and learning systems on top of it without rewriting the foundation each time.
 
-https://github.com/user-attachments/assets/8b9d1c06-a58a-40a6-a1f9-abc77dda6b2d
+
+https://github.com/user-attachments/assets/5eb2d0ed-dbff-4f73-aa73-23f3c264b894
+
 
 ---
 
